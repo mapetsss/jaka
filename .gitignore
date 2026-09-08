@@ -1,0 +1,19 @@
+# colcon workspaces
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors and operating systems
+.vscode/
+.idea/
+*~
+.DS_Store
+
+# Runtime diagnostics and recordings
+*.bag
+*.db3
+*.mcap

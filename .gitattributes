@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.md whitespace=-trailing-space
+jaka_ros2_documentation-中文版.md -text
+
+*.STL binary
+*.dae binary
+*.so binary
